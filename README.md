@@ -24,13 +24,13 @@ Jay Oliver<sup>1\*</sup> and Ryan McManamay<sup>1</sup>
 Earth System Models (ESMs) require current and future projections of land use and landcover change (LULC) to simulate land-atmospheric interactions and global biogeochemical cycles. Among the most utilized land systems in ESMs are the Community Land Model (CLM) and the Land-Use Harmonization 2 (LUH2) products. Regional studies also use these products by extending coarse projections to finer resolutions via downscaling or by using other Multisector Dynamic (MSD) models. One such MSD is the Global Change Analysis Model (GCAM), which has its own independent land model, but often relies on CLM or LUH2 as spatial inputs for its base years. However, this requires harmonization of thematically incongruent land systems at multiple spatial resolutions, leading to uncertainty and error propagation. To resolve these issues, we develop a thematically consistent LULC system for the conterminous United States adaptable to multiple MSD frameworks to support research at a regional level.  Using empirically derived spatial products, we developed a series of base maps for multiple contemporary years of observation at a 30-m resolution that support flexibility and interchangeability amongst LUH2, CLM, and GCAM classification systems. 
 
 ## Journal reference
-Scientific Data
+Oliver, J., R.A. McManamay. 2025. United States Multi-Sector Dynamics land use and land cover base maps to support Human and Earth System Models. Scientific Data 10.1038/s41597-025-04713-6
 
 ## Code reference
-
 Oliver, J., R.A. McManamay. 2025. United States Multi-Sector Dynamics land use and land cover base maps to support Human-Earth System Modeling. [IMMM-SFA GitHub Repository] (https://github.com/IMMM-SFA/MSD-Landuse-Basemap-Series/) 
 
 ## Data reference
+Oliver, J., & McManamay, R. (2024). United States Multi-Sector Dynamics land use and land cover base maps to support Human-Earth System Modeling (Version v1) [Data set]. MSD-LIVE Data Repository. https://doi.org/10.57931/2246609
 
 ### Input data
 
@@ -63,10 +63,9 @@ Oliver, J., & McManamay, R. (2024). United States Multi-Sector Dynamics land use
 
 
 ## Contributing modeling software
-| Model | Version | Repository Link | DOI |
-|-------|---------|-----------------|-----|
-| Python| version 3 | https://www.python.org/| 
-| Jupyter | Notebook | https://jupyter.org/ | 
+| Model | Version | Repository Link |
+|-------|---------|-----------------|
+| Python| version 3 | https://www.python.org/|  
 | R | version 4.4.3 | https://cran.r-project.org/| 
 
 
