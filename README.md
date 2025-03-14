@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/942147963.svg)](https://doi.org/10.5281/zenodo.15025164)
+
 # oliver-mcmanamay_2025_scidata
 
 **United States multi-sector land use and land cover base maps to support human and Earth system models**
