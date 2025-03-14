@@ -76,7 +76,7 @@ Oliver, J., & McManamay, R. (2024). United States Multi-Sector Dynamics land use
 | `Rainfed_Irrigated_Classification_OS.py` | Script to assign crops as rainfed or irrgated | `python3 Rainfed_Irrigated_Classification_OS.py  |
 
 5. Classifying managed and unmanaged forest and pasture lands was conducted manually in ArcPro.  However, this processed followed a similar rationale to 'Rainfed_Irrigated_Classification_OS.py'. Please refer to Oliver and McManamay (2025) Scientific Data for specific steps.
-6. Classying land classes as boreal, temperate, and tropical classes was conducted manually in ArcPro using [input data] (#input-data) (Köppen-Geiger climate classification, Ecoregions, and Digital Elevation Model).  Please refer to Oliver and McManamay (2025) Scientific Data for specific steps.
+6. Classying land classes as boreal, temperate, and tropical classes was conducted manually in ArcPro using [input data](#input-data)(Köppen-Geiger climate classification, Ecoregions, and Digital Elevation Model).  Please refer to Oliver and McManamay (2025) Scientific Data for specific steps.
 7. Download and unzip the [output data](#output-data) from my experiment
 8. Run the following scripts in the `workflow` directory to compare my outputs to those from the publication
 
