@@ -68,15 +68,17 @@ Oliver, J., & McManamay, R. (2024). United States Multi-Sector Dynamics land use
 1. Install the software components required to conduct the experiment from [contributing modeling software](#contributing-modeling-software)
 2. Download and install the supporting [input data](#input-data) required to conduct the experiment
 3. Refer to Oliver and McManamay (2025) Scientific Data.  Review all tables of land classes, as well as Supplementary material of all MSD classes. Also review Figure 1 (sankey diagram)
-4. Run the following scripts in the `workflow` directory to re-create this experiment
+4. Run the following scripts in the `workflow` directory to re-create the first part of this experiment
 
 | Script Name | Description | How to Run |
 | --- | --- | --- |
 | `CDL_Crop_Mask_OS.py` | Script to override NLCD cultivated crops with USDA CDL values | `python3 CDL_Crop_Mask_OS.py|
 | `Rainfed_Irrigated_Classification_OS.py` | Script to assign crops as rainfed or irrgated | `python3 Rainfed_Irrigated_Classification_OS.py  |
 
-4. Download and unzip the [output data](#output-data) from my experiment
-5. Run the following scripts in the `workflow` directory to compare my outputs to those from the publication
+5. Classifying managed and unmanaged forest and pasture lands was conducted manually in ArcPro.  However, this processed followed a similar rationale to 'Rainfed_Irrigated_Classification_OS.py'. Please refer to Oliver and McManamay (2025) Scientific Data for specific steps.
+6. Classying land classes as boreal, temperate, and tropical classes was conducted manually in ArcPro using [input data] (#input-data) (Köppen-Geiger climate classification, Ecoregions, and Digital Elevation Model).  Please refer to Oliver and McManamay (2025) Scientific Data for specific steps.
+7. Download and unzip the [output data](#output-data) from my experiment
+8. Run the following scripts in the `workflow` directory to compare my outputs to those from the publication
 
 | Script Name | Description | How to Run |
 | --- | --- | --- |
