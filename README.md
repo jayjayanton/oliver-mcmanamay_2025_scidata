@@ -1,9 +1,3 @@
-[![DOI](https://zenodo.org/badge/265254045.svg)](https://zenodo.org/doi/10.5281/zenodo.10442485)
-
-<!-- Get rid of the metarepo instructions (the two sections below this) once you're done. -->
-
-# metarepo
-## [Check out the website for instructions](https://immm-sfa.github.io/metarepo)
 
 ## Purpose
 A meta-repository creates a single point of access for someone to find all of the components that were used to create a published work for the purpose of reproducibility. This repository should contain references to all minted data and software as well as any ancillary code used to transform the source data, create figures for your publication, conduct the experiment, and / or execute the contributing software.
