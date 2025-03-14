@@ -1,12 +1,6 @@
+# oliver-mcmanamay_2025_scidata
 
-## Purpose
-A meta-repository creates a single point of access for someone to find all of the components that were used to create a published work for the purpose of reproducibility. This repository should contain references to all minted data and software as well as any ancillary code used to transform the source data, create figures for your publication, conduct the experiment, and / or execute the contributing software.
-
-<!-- Get rid of the metarepo instructions (the two sections above this) once you're done. -->
-
-# Oliver&McManamay_2025_ScientificData
-
-**United States multi-sector land use and land cover base maps to support human and Earth system models 10.1038/s41597-025-04713-6**
+**United States multi-sector land use and land cover base maps to support human and Earth system models**
 
 Jay Oliver<sup>1\*</sup> and Ryan McManamay<sup>1</sup>
 
