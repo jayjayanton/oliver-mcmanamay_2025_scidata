@@ -89,7 +89,7 @@ Use the scripts found in the `figures` directory to reproduce the figures used i
 
 | Figure Number(s) | Script Name | Description | How to Run |
 | --- | --- | --- | --- |
-|1| `Updated_Sankey_Diagram-checkpoint.ipynb` | Sankey diagram depicting MSD development workflow | `python3 Updated_Sankey_Diagram-checkpoint.ipynb -input /path/to/inputs/Workflow_Plot_Outline.csv -input /path/to/inputs/Workflow_Plot_Outline.csv  |
+|1| `Updated_Sankey_Diagram-checkpoint.ipynb` | Sankey diagram depicting MSD development workflow | `python3 Updated_Sankey_Diagram-checkpoint.ipynb -input /path/to/inputs/Workflow_Plot_Outline.csv |
 |6| `Circose_Plot_Analysis_CLM.R` | Circose diagrams comparing pairwise associations (as proportions of area) between CLM PFTs and MSD landcover classes | `R Circose_Plot_Analysis_CLM.R -input /path/to/inputs/PFT_Appended_Wt_Prop.csv |
 |7| `LUH_Circose_Analysis (1).R` | Circose diagrams comparing pairwise associations (as proportions of area) between LUH2 states and MSD landcover classes | `R LUH_Circose_Analysis (1).R -input /path/to/inputs/PFT_Appended_Wt_Prop.csv |
 
